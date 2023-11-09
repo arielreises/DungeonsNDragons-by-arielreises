@@ -29,7 +29,9 @@ Bem-vindo ao Dungeons & Dragons Simplificado! Este é um jogo de console simplif
    git clone https://github.com/arielreises/dungeons-and-dragons-simplificado.git
 
 2. Navegue até o diretório do projeto:
-cd dungeons-and-dragons-simplificado
+   ```bash
+   cd dungeons-and-dragons-simplificado
 
 3. Execute o jogo:
-python main.py
+   ```bash
+   python main.py
